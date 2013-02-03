@@ -8,4 +8,4 @@ set( JsonCpp_FOUND 1 )
 
 set( JsonCpp_INCLUDE_DIRS "@JsonCpp_INCLUDE@" )
 
-set( JsonCpp_LIBRARIES "@JsonCpp_LIBRARY@" )
+set( JsonCpp_LIBRARIES "@JsonCpp_LIBRARIES@" )

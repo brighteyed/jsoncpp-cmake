@@ -14,6 +14,8 @@ endif()
 
 include_directories( include )
 
+set(CMAKE_DEBUG_POSTFIX "d")
+
 add_subdirectory( include )
 add_subdirectory( src )
 
